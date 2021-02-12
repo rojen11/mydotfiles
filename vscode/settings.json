@@ -28,6 +28,5 @@
       "before": ["<S-TAB>"],
       "commands": ["editor.action.outdentLines"]
     }
-  ],
-  
+  ]  
 }
