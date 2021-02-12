@@ -2,12 +2,13 @@
   // theme
   "workbench.colorTheme": "Framer Syntax",
   "window.titleBarStyle": "custom",
+  "window.dialogStyle": "custom",
   "workbench.iconTheme": "material-icon-theme",
 
   // vs code settings
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-
+  
   // vim
   "keyboard.dispatch": "keyCode",
   "vim.useCtrlKeys": true,
@@ -17,7 +18,7 @@
     {
       "before": ["<leader>", "w"],
       "after": [":", "w", "<ENTER>"]
-    },
+    }
   ],
   "vim.visualModeKeyBindings": [
     {
@@ -28,5 +29,5 @@
       "before": ["<S-TAB>"],
       "commands": ["editor.action.outdentLines"]
     }
-  ]  
+  ]
 }
