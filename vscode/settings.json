@@ -8,12 +8,13 @@
   // vs code settings
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  
+
   // vim
   "keyboard.dispatch": "keyCode",
   "vim.useCtrlKeys": true,
   "vim.easymotion": true,
   "vim.leader": "<space>",
+  "editor.lineNumbers": "relative",
   "vim.normalModeKeyBindingsNonRecursive": [
     {
       "before": ["<leader>", "w"],
@@ -29,5 +30,5 @@
       "before": ["<S-TAB>"],
       "commands": ["editor.action.outdentLines"]
     }
-  ]
+  ],
 }
