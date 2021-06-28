@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/aron/Workspace/boz-superset-docker/superset/static/assets/src/explore'
+let g:netrw_dirhist_4='/home/aron/Workspace/boz-superset-docker'
+let g:netrw_dirhist_3='/home/aron/Workspace/boz-superset-docker/superset'
+let g:netrw_dirhist_2='/home/aron/Workspace/boz-superset-docker'
+let g:netrw_dirhist_1='/home/aron/Github/mydotfiles/vim/plug-config'
